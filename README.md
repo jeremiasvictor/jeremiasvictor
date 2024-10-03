@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @jeremiasvictor
-- 🌱 I’m currently learning  JS, HTML e CSS
+- 👋 Hi, I am @jeremiasvictor
+- 🌱 I am currently studying computer science at UFAL.
+
 
 <!---
 jeremiasvictor/jeremiasvictor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
